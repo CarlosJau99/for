@@ -7,7 +7,7 @@ main(){
 	
 	//for (int i=0;i<5;i++){
 	//	cout<<datos[i]<<endl;
-	//}
+	//	}
 	
 	
 	system("pause");
